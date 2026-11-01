@@ -1,0 +1,27 @@
+[
+  {
+    "width": 390,
+    "height": 844,
+    "checks": "arena + six 44px controls visible; no overlap/overflow; aspect ratio; simultaneous move/jump/fire; release/cancel; settings pause; stage selection closes dialogs"
+  },
+  {
+    "width": 375,
+    "height": 667,
+    "checks": "arena + six 44px controls visible; no overlap/overflow; aspect ratio; simultaneous move/jump/fire; release/cancel; settings pause; stage selection closes dialogs"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "checks": "arena + six 44px controls visible; no overlap/overflow; aspect ratio; simultaneous move/jump/fire; release/cancel; settings pause; stage selection closes dialogs"
+  },
+  {
+    "width": 932,
+    "height": 430,
+    "checks": "arena + six 44px controls visible; no overlap/overflow; aspect ratio; simultaneous move/jump/fire; release/cancel; settings pause; stage selection closes dialogs"
+  },
+  {
+    "width": 568,
+    "height": 320,
+    "checks": "arena + six 44px controls visible; no overlap/overflow; aspect ratio; simultaneous move/jump/fire; release/cancel; settings pause; stage selection closes dialogs"
+  }
+]

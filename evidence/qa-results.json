@@ -1,0 +1,28 @@
+{
+  "checks": [
+    "Initial state ready with 100 stage buttons",
+    "Keyboard movement changes player position",
+    "Jump leaves ground",
+    "Held fire produces bubbles",
+    "Pause freezes physics; resume works",
+    "Two player mode and independent 2P controls",
+    "Stage selector starts final boss with full HP and resets score",
+    "Sound toggle updates accessible state",
+    "Music schedules synthesized notes when sound is enabled",
+    "Pause stops music timer and active notes",
+    "Resume restarts music scheduling",
+    "Mute/unmute stops and restarts music without duplicate playback",
+    "Window blur pauses music with gameplay",
+    "Restart resets current round",
+    "390px mobile has no horizontal overflow; help and stage dialogs render",
+    "Bubble collision captures enemy",
+    "Pop removes enemy, creates fruit and awards points",
+    "Cleared round advances and preserves lives",
+    "Restart clears nonzero score and restores lives",
+    "Last life produces game over",
+    "Lightning hit defeats boss and produces victory",
+    "Unpopped enemy escapes and becomes angry",
+    "Direct file:// launch works without a server"
+  ],
+  "passed": 23
+}
